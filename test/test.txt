@@ -1,0 +1,2 @@
+Ceci est un fichier word qui sert à rien à par pour tester le git
+
